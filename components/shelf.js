@@ -9,8 +9,12 @@ class Shelf extends Component {
     this.state = {
       shelfItems: [
         'shampoo',
-        'chocolate',
-        'yogurt'
+        'salad',
+        'yogurt',
+        'banana',
+        'milk',
+        'chicken',
+        'ice cream'
       ]
     }
   }
